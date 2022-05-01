@@ -14,3 +14,4 @@ Project is created with:
 * react: 7.0.1
 * expo: 44.0.0
 * axios: 0.26.0
+* [yelp api](https://www.yelp.com/developers)
